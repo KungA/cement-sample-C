@@ -5,3 +5,5 @@ full-build:
     target: C.sln
     configuration: Release
 
+  install:
+    - C\bin\Release\C.dll
